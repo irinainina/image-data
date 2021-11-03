@@ -366,7 +366,7 @@ const images = [
         imageNum: '60',
     },
     {
-        author: 'Александра Маковский',
+        author: 'Константин Маковский',
         name: 'Надоела',
         year: '1897',
         imageNum: '61',
