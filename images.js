@@ -690,7 +690,7 @@ const images = [
         imageNum: '114',
     },
     {
-        author: 'Ян Вермеер "Служанка с кувшином молока',
+        author: 'Ян Вермеер',
         name: 'Молочница',
         year: '1660',
         imageNum: '115',
