@@ -444,7 +444,7 @@ const images = [
         imageNum: '73',
     },
     {
-        author: 'Алексей Венециановн',
+        author: 'Алексей Венецианов',
         name: 'Спящий пастушок',
         year: '1826',
         imageNum: '74',
