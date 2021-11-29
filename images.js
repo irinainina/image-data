@@ -1176,7 +1176,7 @@ const images = [
         imageNum: '195',
     },
     {
-        author: 'Эдуар Мане',
+        author: 'Эдуард Мане',
         name: 'Бар в «Фоли-Бержер»',
         year: '1882',
         imageNum: '196',
