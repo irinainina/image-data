@@ -540,7 +540,7 @@ const images = [
         imageNum: '89',
     },
     {
-        author: 'Василий тропинин',
+        author: 'Василий Тропинин',
         name: 'Девушка с горшком роз',
         year: '1850',
         imageNum: '90',
@@ -702,7 +702,7 @@ const images = [
         imageNum: '116',
     },
     {
-        author: 'Винсент ван Гог',
+        author: 'Винсент Ван Гог',
         name: 'Подсолнухи',
         year: '1888',
         imageNum: '117',
@@ -984,7 +984,7 @@ const images = [
         imageNum: '163',
     },
     {
-        author: 'Винсент ван Гог',
+        author: 'Винсент Ван Гог',
         name: 'Ирисы',
         year: '1889',
         imageNum: '164',
@@ -1002,7 +1002,7 @@ const images = [
         imageNum: '166',
     },
     {
-        author: 'Винсент ван Гог',
+        author: 'Винсент Ван Гог',
         name: 'Звёздная ночь',
         year: '1889',
         imageNum: '167',
